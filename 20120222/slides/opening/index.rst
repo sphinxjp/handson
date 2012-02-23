@@ -18,7 +18,7 @@ Sphinx ハンズオン #3
 ====================
 * 実行犯とみられる男性
 * Plone4 の本を書いた人(のひとり)
-* フェレットの人
+* pythonボルダリング部(#kabepy)部長
 * 主に Windows で使ってます
 
 .. image:: _static/kurokuri.jpg
