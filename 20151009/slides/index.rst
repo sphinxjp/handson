@@ -4,7 +4,7 @@ Sphinx ハンズオン PyConJP 2015
 
 .. s6:: styles
 
-    'h1': {fontSize:'180%', textAlign:'center', lineHeight:'3em'}
+    'h1': {fontSize:'180%', textAlign:'center', lineHeight:'2em'}
 
 
 講師紹介: @shimizukawa
