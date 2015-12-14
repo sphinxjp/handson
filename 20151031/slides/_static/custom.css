@@ -1,0 +1,167 @@
+body,
+.s6.sphinx .page.index {
+	background: url(sphinx-slide-bg.png);
+	background-size: 100%;
+	background-position: 100% 100%;
+}
+
+.s6.sphinx .page.default strong {
+	font-size: 100%;
+}
+
+.s6.sphinx .page.default em {
+	font-style: italic;
+	color: #ccffcc;
+}
+
+.s6.sphinx h1.page.default {
+	margin: 1.0em 0.1em;
+	font-size: 200%;
+}
+
+.s6.sphinx .page.default h2 {
+	padding: 0.1em 3%;
+	line-height: 1.2em;
+}
+
+.s6.sphinx .page.default > p,
+.s6.sphinx .page.default > ol,
+.s6.sphinx .page.default > ul {
+	margin: 0.1em;
+}
+
+.s6.sphinx {
+	background: none;
+	color: white;
+}
+.s6.sphinx .page.default {
+	background: none;
+}
+.s6.sphinx a {
+	color: orange;
+}
+.s6.sphinx a:hover {
+	color: orange;
+}
+.s6.sphinx a:visited {
+	color: orange;
+}
+
+.s6.sphinx .page.default div.highlight {
+	width: 85%;
+	margin: 0 auto;
+}
+
+.s6.sphinx .page.default table.highlighttable {
+	margin: 0.3em;
+	background-color: #008;
+}
+.s6.sphinx .page.default table.highlighttable td {
+	padding: 0;
+}
+.s6.sphinx .page.default table.highlighttable td div.highlight {
+	margin: 0;
+}
+
+.s6.sphinx .page.default div.admonition {
+	margin: 0.2em 1em;
+	font-size: 80%;
+}
+.s6.sphinx .page.default div.admonition > p {
+	font-size: 60%;
+}
+.s6.sphinx .page.default div.admonition > p.admonition-title {
+	font-style: italic;
+	text-decoration: underline;
+	color: yellow;
+	font-size: 80%;
+}
+
+.s6.sphinx .page.default .admonition.speech {
+	display: none;
+	position: absolute;
+	background-color: white;
+	color: black;
+	border: 1px solid black;
+	width: 80%;
+}
+.s6.sphinx .page.default .admonition.speech > ul > li,
+.s6.sphinx .page.default .admonition.speech > ol > li {
+	font-size: 60%;
+}
+.s6.sphinx .page.default .admonition.speech > p {
+	font-size: 60%;
+	margin-bottom: 1em;
+}
+.s6.sphinx .page.default .admonition.speech > p.admonition-title {
+	color: black;
+	margin: 0;
+}
+.s6.sphinx .page.default .admonition.speech > p.last {
+	margin: 0;
+}
+
+.s6.sphinx .page.default .speech-hover {
+	display: block;
+	position: absolute;
+	left: 0.1em;
+	bottom: 0.1em;
+	width: 1.2em;
+	height: 1em;
+	border: 1px solid black;
+	background-color: gray;
+	color: black;
+	font-size: 70%;
+	padding: 0.1em;
+	z-index: 1000;
+}
+
+.s6.sphinx .page.default .figure .caption {
+	font-size: 60%;
+	text-align: center;
+}
+
+.s6.sphinx .page.default table {
+	border: 1px black solid;
+	border-width: 1px 0 0 1px;
+	color: black;
+}
+
+.s6.sphinx .page.default table th,
+.s6.sphinx .page.default table td {
+	border: 1px black solid;
+	border-width: 0 1px 1px 0;
+}
+
+.s6.sphinx .page.default table tr.row-even th.stub,
+.s6.sphinx .page.default table tr.row-even td.stub {
+	background-color: #c0c0c0;
+}
+
+.s6.sphinx .page.default table tr.row-odd th.stub,
+.s6.sphinx .page.default table tr.row-odd td.stub {
+	background-color: #a0a0c0;
+}
+
+.s6.sphinx .page.default table tr.row-even th.head,
+.s6.sphinx .page.default table tr.row-even td.head,
+.s6.sphinx .page.default table tr.row-odd th.head,
+.s6.sphinx .page.default table tr.row-odd td.head {
+	background-color: gray;
+}
+
+.s6.sphinx .page.default table tr.row-even td {
+	background-color: white;
+}
+
+.s6.sphinx .page.default table tr.row-odd td {
+	background-color: #ccccff;
+}
+
+.s6.sphinx .page.default div.admonition > p.admonition-title {
+	color: red;
+}
+
+.footer {
+    display: none;
+}
